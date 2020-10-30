@@ -1,0 +1,64 @@
+ {% extends 'techhome/main.html' %} {% load static %}
+<hr>{% block content %}
+<section id="advertisement">
+    <div class="container">
+        <img src="{% static 'images/advertisement.jpg' %}" alt="" />
+    </div>
+</section>
+
+<section>
+    <div class="container">
+        <div class="row">
+            {% include 'techhome/leftnavbar.html' %}
+            <div class="col-sm-9 padding-right">
+                <div class="features_items">
+                    <h2 class="title text-center">{% if category %}{{category.cat_title}}{% else %}Item{% endif %}</h2>
+                    {% for p in item_list %}
+                    <div class="col-sm-4">
+                        <div class="product-image-wrapper">
+                            <div class="single-products">
+                                <div class="productinfo text-center">
+                                    <a href="{{p.get_absolute_url}}"><img src="{{p.imageURL}}" alt="" />
+                                        <h2>{{p.title}}</h2>
+                                        <p><label>Category : </label> {{p.category}}</p>
+                                        <p><label>price : </label> {{p.price}} VND</p>
+                                    </a>
+                                    <a href="{{p.get_product_to_cart}}" class="btn btn-default add-to-cart"><i class="fa fa-shopping-cart"></i>Add to cart</a>
+                                </div>
+                            </div>
+                            <div class="choose">
+                                <ul class="nav nav-pills nav-justified">
+                                    <li><a href="#"><i class="fa fa-plus-square"></i>Add to wishlist</a></li>
+                                    <li><a href="#"><i class="fa fa-plus-square"></i>Add to compare</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+                {% if is_paginated %}
+                <nav aria-label="Page navigation example">
+                    <ul class="pagination justify-content-center">
+                        {% if page_obj.has_previous %}
+                        <li class="page-item">
+                            <a class="page-link" href="?page={{page_obj.previous_page_number}}">Previous</a>
+                        </li>
+                        {% endif %}
+                        <li class="page-item"><a class="page-link" href="#">1</a></li>
+                        <li class="page-item"><a class="page-link" href="#">2</a></li>
+                        <li class="page-item"><a class="page-link" href="#">3</a></li>
+                        {% if page_obj.has_next %}
+                        <li class="page-item">
+                            <a class="page-link" href="?page={{page_obj.next_page_number}}">Next</a>
+                        </li>
+                        {% endif %}
+                    </ul>
+                </nav>
+                {% endif %}
+            </div>
+            <!--features_items-->
+        </div>
+    </div>
+    </div>
+</section>
+{% endblock %}

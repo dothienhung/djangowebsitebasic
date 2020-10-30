@@ -1,0 +1,120 @@
+{% extends 'techhome/main.html' %} {% block content %}
+<section id="cart_items">
+    <div class="container">
+        <div class="breadcrumbs">
+            <ol class="breadcrumb">
+                <li><a href="{% url 'techshop:home' %}">Home</a></li>
+                <li class="active">Check out</li>
+            </ol>
+        </div>
+        <!--/breadcrums-->
+        <!--/checkout-options-->
+        <!--/register-req-->
+
+        <div class="shopper-informations">
+            <div class="row">
+                <div class="col-sm-5 clearfix">
+                    <div class="review-payment">
+                        <h2>Bill to</h2>
+                    </div>
+                    <div class="bill-to">
+                        <div class="form-one">
+                            <form method="POST" action="">
+                                {% csrf_token %}
+                                <input type="text" placeholder="street_address" name="street_address" id="street_address">
+                                <hr>{{form.apartment_Address}}
+                                <hr>{{form.zip}}
+                                <hr> {{form.country}}
+                                <hr><label> Check out :</label>
+                                <input {% if form.same_billing_address.value %}checked{% endif %} type="checkbox" name="same_billing_address" placeholder="Address 1 *">
+                                <label> Luu hoa don :</label>
+                                <input {% if form.save_info.value %}checked{% endif %} type="checkbox" name="save_info" placeholder="save_info">
+                                <hr>{% for value,name in form.fields.payment_option.choices %}
+                                <hr><label>{{name}} :</label><input type="radio" name="payment_option" value="{{value}}" id="{{name}}"> {% endfor %}
+
+                                <input type="submit" value="submit" class="btn btn-primary">
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-sm-7 clearfix">
+                    <div class="review-payment">
+                        <h2>Review & Payment</h2>
+                    </div>
+
+                    <div class="table-responsive cart_info">
+                        <table class="table table-condensed">
+                            <thead>
+                                <tr class="cart_menu">
+                                    <td class="image">Item</td>
+                                    <td class="description"></td>
+                                    <td class="price">Price</td>
+                                    <td class="quantity">Quantity</td>
+                                    <td class="total">Total</td>
+                                    <td></td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {% for items in items %}
+                                <tr>
+                                    <td class="cart_product">
+                                        <a href=""><img src="{{items.product.imageURL}}" alt=""></a>
+                                    </td>
+                                    <td class="cart_description">
+                                        <h4><a href="">{{items.product.name}}</a></h4>
+                                    </td>
+                                    <td class="cart_price">
+                                        <p>{{items.product.price}}</p>
+                                    </td>
+                                    <td class="cart_quantity">
+                                        <div class="cart_quantity_button">
+                                            <a class="cart_quantity_up" href=""> + </a>
+                                            <input class="cart_quantity_input" type="text" name="quantity" value="{{items.quantity}}" autocomplete="off" size="2">
+                                            <a class="cart_quantity_down" href=""> - </a>
+                                        </div>
+                                    </td>
+                                    <td class="cart_total">
+                                        <p class="cart_total_price">{{items.total_one_items}} VND</p>
+                                    </td>
+                                    <td class="cart_delete">
+                                        <a class="cart_quantity_delete" href=""><i class="fa fa-times"></i></a>
+                                    </td>
+                                </tr>
+                                {% endfor %}
+
+                                <tr>
+                                    <td colspan="4">&nbsp;</td>
+                                    <td colspan="2">
+                                        <table class="table table-condensed total-result">
+                                            <tr>
+                                                <td>Cart Sub Total</td>
+                                                <td>{{order.total_item_cart}}</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Exo Tax</td>
+                                                <td>$2</td>
+                                            </tr>
+                                            <tr class="shipping-cost">
+                                                <td>Shipping Cost</td>
+                                                <td>Free</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Total</td>
+                                                <td><span>{{order.total_bill}} VND</span></td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+</section>
+{% endblock %}
+<!--/#cart_items-->

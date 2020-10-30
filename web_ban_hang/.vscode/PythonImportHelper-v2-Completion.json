@@ -1,0 +1,2052 @@
+[
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {
+            "value": "\n```python\nimport django.db\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {
+            "value": "\n```python\nimport django.db.models.deletion\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {
+            "value": "\n```python\nimport django.apps\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {
+            "value": "\n```python\nimport django.apps\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "reverse",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "redirect",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_object_or_404",
+        "importPath": "django.shortcuts",
+        "description": "django.shortcuts",
+        "isExtraImport": true,
+        "detail": "django.shortcuts",
+        "documentation": {
+            "value": "\n```python\nimport django.shortcuts\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "fields",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {
+            "value": "\n```python\nimport django.db.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Q",
+        "importPath": "django.db.models",
+        "description": "django.db.models",
+        "isExtraImport": true,
+        "detail": "django.db.models",
+        "documentation": {
+            "value": "\n```python\nimport django.db.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {
+            "value": "\n```python\nimport django.test\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {
+            "value": "\n```python\nimport django.test\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {
+            "value": "\n```python\nimport django.urls\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "format_suffix_patterns",
+        "importPath": "rest_framework.urlpatterns",
+        "description": "rest_framework.urlpatterns",
+        "isExtraImport": true,
+        "detail": "rest_framework.urlpatterns",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework.urlpatterns\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework.decorators\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {
+            "value": "\n```python\nimport rest_framework.response\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {
+            "value": "\n```python\nimport os\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.asgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {
+            "value": "\n```python\nimport pathlib\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "static",
+        "importPath": "django.conf.urls.static",
+        "description": "django.conf.urls.static",
+        "isExtraImport": true,
+        "detail": "django.conf.urls.static",
+        "documentation": {
+            "value": "\n```python\nimport django.conf.urls.static\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {
+            "value": "\n```python\nimport django.conf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {
+            "value": "\n```python\nimport django.conf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {
+            "value": "\n```python\nimport django.conf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {
+            "value": "\n```python\nimport django.conf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {
+            "value": "\n```python\nimport django.conf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {
+            "value": "\n```python\nimport django.core.wsgi\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "django_countries.fields",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django_countries.fields",
+        "description": "django_countries.fields",
+        "detail": "django_countries.fields",
+        "documentation": {
+            "value": "\n```python\nimport django_countries.fields\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CountryField",
+        "importPath": "django_countries.fields",
+        "description": "django_countries.fields",
+        "isExtraImport": true,
+        "detail": "django_countries.fields",
+        "documentation": {
+            "value": "\n```python\nimport django_countries.fields\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CountryField",
+        "importPath": "django_countries.fields",
+        "description": "django_countries.fields",
+        "isExtraImport": true,
+        "detail": "django_countries.fields",
+        "documentation": {
+            "value": "\n```python\nimport django_countries.fields\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "django",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django",
+        "description": "django",
+        "detail": "django",
+        "documentation": {
+            "value": "\n```python\nimport django\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "template",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {
+            "value": "\n```python\nimport django\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "forms",
+        "importPath": "django",
+        "description": "django",
+        "isExtraImport": true,
+        "detail": "django",
+        "documentation": {
+            "value": "\n```python\nimport django\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "messages",
+        "importPath": "django.core.checks",
+        "description": "django.core.checks",
+        "isExtraImport": true,
+        "detail": "django.core.checks",
+        "documentation": {
+            "value": "\n```python\nimport django.core.checks\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "View",
+        "importPath": "django.views.generic.base",
+        "description": "django.views.generic.base",
+        "isExtraImport": true,
+        "detail": "django.views.generic.base",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic.base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ListView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DetailView",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "View",
+        "importPath": "django.views.generic",
+        "description": "django.views.generic",
+        "isExtraImport": true,
+        "detail": "django.views.generic",
+        "documentation": {
+            "value": "\n```python\nimport django.views.generic\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {
+            "value": "\n```python\nimport django.utils\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "auth",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "login",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "logout",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {
+            "value": "\n```python\nimport django.contrib.auth\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "*",
+        "importPath": "django.core.exceptions",
+        "description": "django.core.exceptions",
+        "isExtraImport": true,
+        "detail": "django.core.exceptions",
+        "documentation": {
+            "value": "\n```python\nimport django.core.exceptions\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ceil",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {
+            "value": "\n```python\nimport math\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {
+            "value": "\n```python\nimport sys\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {
+            "value": "\n```python\nimport site\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {
+            "value": "\n```python\nimport warnings\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "management",
+        "importPath": "django.core",
+        "description": "django.core",
+        "isExtraImport": true,
+        "detail": "django.core",
+        "documentation": {
+            "value": "\n```python\nimport django.core\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ecommerce.api_basic.migrations.0001_initial",
+        "description": "ecommerce.api_basic.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Category',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('cat_title', models.CharField(blank=True, max_length=100, null=True)),",
+        "detail": "ecommerce.api_basic.migrations.0001_initial",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.api_basic.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Category',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('cat_title', models.CharField(blank=True, max_length=100, null=True)),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ApiBasicConfig",
+        "kind": 6,
+        "importPath": "ecommerce.api_basic.apps",
+        "description": "ecommerce.api_basic.apps",
+        "peekOfCode": "class ApiBasicConfig(AppConfig):\n    name = 'api_basic'",
+        "detail": "ecommerce.api_basic.apps",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.api_basic.apps import ApiBasicConfig\n```\n\n```python\n\n\n```\n\n```python\nclass ApiBasicConfig(AppConfig):\n    name = 'api_basic'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "ecommerce.api_basic.models",
+        "description": "ecommerce.api_basic.models",
+        "peekOfCode": "class Category(models.Model):\n    cat_title = models.CharField(blank=True ,null =True,max_length=100)\n    slug = models.SlugField()\n    def __str__(self):\n        return self.cat_title\n    def getidcategoryURL(self):\n        return reverse(\"techshop:Categoryproductdetails\",kwargs={\n            'slug' : self.slug\n        })\nclass Item(models.Model):",
+        "detail": "ecommerce.api_basic.models",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.api_basic.models import Category\n```\n\n```python\n\n\n```\n\n```python\nclass Category(models.Model):\n    cat_title = models.CharField(blank=True ,null =True,max_length=100)\n    slug = models.SlugField()\n    def __str__(self):\n        return self.cat_title\n    def getidcategoryURL(self):\n        return reverse(\"techshop:Categoryproductdetails\",kwargs={\n            'slug' : self.slug\n        })\nclass Item(models.Model):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Item",
+        "kind": 6,
+        "importPath": "ecommerce.api_basic.models",
+        "description": "ecommerce.api_basic.models",
+        "peekOfCode": "class Item(models.Model):\n    pass\n    title = models.CharField(max_length =200,null =True ,blank=True)\n    price = models.FloatField(null=True ,blank =True) \n    discount_price = models.FloatField(null=True ,blank =True) \n    description =models.TextField(null=True,blank=True,max_length=500)\n    item_category =models.ForeignKey(Category,null =True,on_delete =models.CASCADE)\n    label = models.CharField(choices=LABEL_CHOICES, max_length=2,null=True)\n    slug = models.SlugField()\n    img_product =models.ImageField(null =True,blank=True)",
+        "detail": "ecommerce.api_basic.models",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.api_basic.models import Item\n```\n\n```python\n\n\n```\n\n```python\nclass Item(models.Model):\n    pass\n    title = models.CharField(max_length =200,null =True ,blank=True)\n    price = models.FloatField(null=True ,blank =True) \n    discount_price = models.FloatField(null=True ,blank =True) \n    description =models.TextField(null=True,blank=True,max_length=500)\n    item_category =models.ForeignKey(Category,null =True,on_delete =models.CASCADE)\n    label = models.CharField(choices=LABEL_CHOICES, max_length=2,null=True)\n    slug = models.SlugField()\n    img_product =models.ImageField(null =True,blank=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LABEL_CHOICES",
+        "kind": 5,
+        "importPath": "ecommerce.api_basic.models",
+        "description": "ecommerce.api_basic.models",
+        "peekOfCode": "LABEL_CHOICES = (\n    ('P', 'primary'),\n    ('S', 'secondary'),\n    ('D', 'danger')\n)\nADDRESS_CHOICES = (\n    ('B', 'Billing'),\n    ('S', 'Shipping'),\n)\nclass Category(models.Model):",
+        "detail": "ecommerce.api_basic.models",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.api_basic.models import LABEL_CHOICES\n```\n\n```python\n\n\n```\n\n```python\nLABEL_CHOICES = (\n    ('P', 'primary'),\n    ('S', 'secondary'),\n    ('D', 'danger')\n)\nADDRESS_CHOICES = (\n    ('B', 'Billing'),\n    ('S', 'Shipping'),\n)\nclass Category(models.Model):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ADDRESS_CHOICES",
+        "kind": 5,
+        "importPath": "ecommerce.api_basic.models",
+        "description": "ecommerce.api_basic.models",
+        "peekOfCode": "ADDRESS_CHOICES = (\n    ('B', 'Billing'),\n    ('S', 'Shipping'),\n)\nclass Category(models.Model):\n    cat_title = models.CharField(blank=True ,null =True,max_length=100)\n    slug = models.SlugField()\n    def __str__(self):\n        return self.cat_title\n    def getidcategoryURL(self):",
+        "detail": "ecommerce.api_basic.models",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.api_basic.models import ADDRESS_CHOICES\n```\n\n```python\n\n\n```\n\n```python\nADDRESS_CHOICES = (\n    ('B', 'Billing'),\n    ('S', 'Shipping'),\n)\nclass Category(models.Model):\n    cat_title = models.CharField(blank=True ,null =True,max_length=100)\n    slug = models.SlugField()\n    def __str__(self):\n        return self.cat_title\n    def getidcategoryURL(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ItemSerializers",
+        "kind": 6,
+        "importPath": "ecommerce.api_basic.serializers",
+        "description": "ecommerce.api_basic.serializers",
+        "peekOfCode": "class ItemSerializers(serializers.Serializer):\n    id =serializers.IntegerField(read_only =True)\n    title =serializers.CharField(max_length =200,required=False, allow_blank=True)\n    price =serializers.FloatField(required=False ) \n    discount_price =serializers.FloatField(required=False ) \n    description =serializers.CharField(required=False ,max_length=500)\n    img_product =serializers.ImageField(required=False )\n    def create(self,validated_data):\n        return ItemSerializers.objects.create(**validated_data)\n    def update(self,validated_data,instance):",
+        "detail": "ecommerce.api_basic.serializers",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.api_basic.serializers import ItemSerializers\n```\n\n```python\n\n\n```\n\n```python\nclass ItemSerializers(serializers.Serializer):\n    id =serializers.IntegerField(read_only =True)\n    title =serializers.CharField(max_length =200,required=False, allow_blank=True)\n    price =serializers.FloatField(required=False ) \n    discount_price =serializers.FloatField(required=False ) \n    description =serializers.CharField(required=False ,max_length=500)\n    img_product =serializers.ImageField(required=False )\n    def create(self,validated_data):\n        return ItemSerializers.objects.create(**validated_data)\n    def update(self,validated_data,instance):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ItemSerializers",
+        "kind": 6,
+        "importPath": "ecommerce.api_basic.serializers",
+        "description": "ecommerce.api_basic.serializers",
+        "peekOfCode": "class ItemSerializers(serializers.ModelSerializer):\n    class Meta:\n        model = Item\n        fields =['id','title','price','discount_price','description']",
+        "detail": "ecommerce.api_basic.serializers",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.api_basic.serializers import ItemSerializers\n```\n\n```python\n\n\n```\n\n```python\nclass ItemSerializers(serializers.ModelSerializer):\n    class Meta:\n        model = Item\n        fields =['id','title','price','discount_price','description']\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "ecommerce.api_basic.urls",
+        "description": "ecommerce.api_basic.urls",
+        "peekOfCode": "urlpatterns = format_suffix_patterns(urlpatterns)",
+        "detail": "ecommerce.api_basic.urls",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.api_basic.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = format_suffix_patterns(urlpatterns)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Item_list_view",
+        "kind": 2,
+        "importPath": "ecommerce.api_basic.views",
+        "description": "ecommerce.api_basic.views",
+        "peekOfCode": "def Item_list_view(request, format =None):\n    if request.method == 'GET':\n        items = Item.objects.all()\n        serializer = ItemSerializers(items, many=True)\n        return Response(serializer.data)\n    elif request.method == 'POST':\n        serializer = ItemSerializers(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_201_CREATED)",
+        "detail": "ecommerce.api_basic.views",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.api_basic.views import Item_list_view\n```\n\n```python\n\n\n```\n\n```python\ndef Item_list_view(request, format =None):\n    if request.method == 'GET':\n        items = Item.objects.all()\n        serializer = ItemSerializers(items, many=True)\n        return Response(serializer.data)\n    elif request.method == 'POST':\n        serializer = ItemSerializers(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data, status=status.HTTP_201_CREATED)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Item_details_view",
+        "kind": 2,
+        "importPath": "ecommerce.api_basic.views",
+        "description": "ecommerce.api_basic.views",
+        "peekOfCode": "def Item_details_view(request ,pk, format =None):\n    try:\n        items = Item.objects.get(pk=pk)\n    except Item.DoesNotExist:\n        return Response(status=status.HTTP_404_NOT_FOUND)\n    if request.method == 'GET':\n        serializer = ItemSerializers(items)\n        return Response(serializer.data)\n    elif request.method == 'PUT':\n        serializer = ItemSerializers(items, data=request.data)",
+        "detail": "ecommerce.api_basic.views",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.api_basic.views import Item_details_view\n```\n\n```python\n\n\n```\n\n```python\ndef Item_details_view(request ,pk, format =None):\n    try:\n        items = Item.objects.get(pk=pk)\n    except Item.DoesNotExist:\n        return Response(status=status.HTTP_404_NOT_FOUND)\n    if request.method == 'GET':\n        serializer = ItemSerializers(items)\n        return Response(serializer.data)\n    elif request.method == 'PUT':\n        serializer = ItemSerializers(items, data=request.data)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.asgi",
+        "description": "ecommerce.ecommerce.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "ecommerce.ecommerce.asgi",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.asgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_asgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'y5m8k99n=j4)tdh@n0bg=q83!o!n(eu!o7fmjnd$(gj%t*!u4o'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import BASE_DIR\n```\n\n```python\n\n\n```\n\n```python\nBASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/3.1/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'y5m8k99n=j4)tdh@n0bg=q83!o!n(eu!o7fmjnd$(gj%t*!u4o'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "SECRET_KEY = 'y5m8k99n=j4)tdh@n0bg=q83!o!n(eu!o7fmjnd$(gj%t*!u4o'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = 'y5m8k99n=j4)tdh@n0bg=q83!o!n(eu!o7fmjnd$(gj%t*!u4o'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import DEBUG\n```\n\n```python\n\n\n```\n\n```python\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'django.contrib.sites',",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import ALLOWED_HOSTS\n```\n\n```python\n\n\n```\n\n```python\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'django.contrib.sites',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'django.contrib.sites',\n    'allauth',\n    'allauth.account',",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import INSTALLED_APPS\n```\n\n```python\n\n\n```\n\n```python\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'django.contrib.sites',\n    'allauth',\n    'allauth.account',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'ecommerce.urls'",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import MIDDLEWARE\n```\n\n```python\n\n\n```\n\n```python\nMIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'ecommerce.urls'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "ROOT_URLCONF = 'ecommerce.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import ROOT_URLCONF\n```\n\n```python\n\n\n```\n\n```python\nROOT_URLCONF = 'ecommerce.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import TEMPLATES\n```\n\n```python\n\n\n```\n\n```python\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'ecommerce.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import WSGI_APPLICATION\n```\n\n```python\n\n\n```\n\n```python\nWSGI_APPLICATION = 'ecommerce.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/3.1/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import DATABASES\n```\n\n```python\n\n\n```\n\n```python\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/3.1/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import AUTH_PASSWORD_VALIDATORS\n```\n\n```python\n\n\n```\n\n```python\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n    os.path.join(BASE_DIR, 'static')",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import LANGUAGE_CODE\n```\n\n```python\n\n\n```\n\n```python\nLANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n    os.path.join(BASE_DIR, 'static')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n    os.path.join(BASE_DIR, 'static')\n]",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import TIME_ZONE\n```\n\n```python\n\n\n```\n\n```python\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n    os.path.join(BASE_DIR, 'static')\n]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n    os.path.join(BASE_DIR, 'static')\n]\nMEDIA_URL ='/images/'",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import USE_I18N\n```\n\n```python\n\n\n```\n\n```python\nUSE_I18N = True\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n    os.path.join(BASE_DIR, 'static')\n]\nMEDIA_URL ='/images/'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_L10N",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "USE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n    os.path.join(BASE_DIR, 'static')\n]\nMEDIA_URL ='/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'static/images')",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import USE_L10N\n```\n\n```python\n\n\n```\n\n```python\nUSE_L10N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n    os.path.join(BASE_DIR, 'static')\n]\nMEDIA_URL ='/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'static/images')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n    os.path.join(BASE_DIR, 'static')\n]\nMEDIA_URL ='/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'static/images')\n#All AUth",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import USE_TZ\n```\n\n```python\n\n\n```\n\n```python\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/3.1/howto/static-files/\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n    os.path.join(BASE_DIR, 'static')\n]\nMEDIA_URL ='/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'static/images')\n#All AUth\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "STATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n    os.path.join(BASE_DIR, 'static')\n]\nMEDIA_URL ='/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'static/images')\n#All AUth\nAUTHENTICATION_BACKENDS = [\n    'django.contrib.auth.backends.ModelBackend',\n    'allauth.account.auth_backends.AuthenticationBackend',",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import STATIC_URL\n```\n\n```python\n\n\n```\n\n```python\nSTATIC_URL = '/static/'\nSTATICFILES_DIRS =[\n    os.path.join(BASE_DIR, 'static')\n]\nMEDIA_URL ='/images/'\nMEDIA_ROOT = os.path.join(BASE_DIR,'static/images')\n#All AUth\nAUTHENTICATION_BACKENDS = [\n    'django.contrib.auth.backends.ModelBackend',\n    'allauth.account.auth_backends.AuthenticationBackend',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR,'static/images')\n#All AUth\nAUTHENTICATION_BACKENDS = [\n    'django.contrib.auth.backends.ModelBackend',\n    'allauth.account.auth_backends.AuthenticationBackend',\n]\nSITE_ID = 1",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import MEDIA_ROOT\n```\n\n```python\n\n\n```\n\n```python\nMEDIA_ROOT = os.path.join(BASE_DIR,'static/images')\n#All AUth\nAUTHENTICATION_BACKENDS = [\n    'django.contrib.auth.backends.ModelBackend',\n    'allauth.account.auth_backends.AuthenticationBackend',\n]\nSITE_ID = 1\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "AUTHENTICATION_BACKENDS",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "AUTHENTICATION_BACKENDS = [\n    'django.contrib.auth.backends.ModelBackend',\n    'allauth.account.auth_backends.AuthenticationBackend',\n]\nSITE_ID = 1",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import AUTHENTICATION_BACKENDS\n```\n\n```python\n\n\n```\n\n```python\nAUTHENTICATION_BACKENDS = [\n    'django.contrib.auth.backends.ModelBackend',\n    'allauth.account.auth_backends.AuthenticationBackend',\n]\nSITE_ID = 1\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SITE_ID",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.settings",
+        "description": "ecommerce.ecommerce.settings",
+        "peekOfCode": "SITE_ID = 1",
+        "detail": "ecommerce.ecommerce.settings",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.settings import SITE_ID\n```\n\n```python\n\n\n```\n\n```python\nSITE_ID = 1\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.urls",
+        "description": "ecommerce.ecommerce.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),  \n    path('accounts/', include('allauth.urls')),\n    path('', include(('techshop.urls', 'techshop'), namespace='techshop')),\n    path('api_basic/', include(('api_basic.urls', 'api_basic'), namespace='api_basic')),   \n]\nurlpatterns += static(settings.MEDIA_URL,document_root=settings.MEDIA_ROOT)",
+        "detail": "ecommerce.ecommerce.urls",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.urls import urlpatterns\n```\n\n```python\n\n\n```\n\n```python\nurlpatterns = [\n    path('admin/', admin.site.urls),  \n    path('accounts/', include('allauth.urls')),\n    path('', include(('techshop.urls', 'techshop'), namespace='techshop')),\n    path('api_basic/', include(('api_basic.urls', 'api_basic'), namespace='api_basic')),   \n]\nurlpatterns += static(settings.MEDIA_URL,document_root=settings.MEDIA_ROOT)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "ecommerce.ecommerce.wsgi",
+        "description": "ecommerce.ecommerce.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "ecommerce.ecommerce.wsgi",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.ecommerce.wsgi import application\n```\n\n```python\n\n\n```\n\n```python\napplication = get_wsgi_application()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.migrations.0001_initial",
+        "description": "ecommerce.techshop.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Item',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "ecommerce.techshop.migrations.0001_initial",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.migrations.0001_initial import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Item',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.migrations.0002_auto_20201022_1430",
+        "description": "ecommerce.techshop.migrations.0002_auto_20201022_1430",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n        model_name='item',\n        name='category',\n        field=models.CharField(choices=[('S', 'Shirt'), ('SW', 'Sport wear'), ('OW', 'Outwear')], max_length=2, null=True),\n        ),",
+        "detail": "ecommerce.techshop.migrations.0002_auto_20201022_1430",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.migrations.0002_auto_20201022_1430 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n        model_name='item',\n        name='category',\n        field=models.CharField(choices=[('S', 'Shirt'), ('SW', 'Sport wear'), ('OW', 'Outwear')], max_length=2, null=True),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.migrations.0003_item_slug",
+        "description": "ecommerce.techshop.migrations.0003_item_slug",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0002_auto_20201022_1430'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='item',\n            name='slug',\n            field=models.SlugField(default='item_id_1'),\n            preserve_default=False,",
+        "detail": "ecommerce.techshop.migrations.0003_item_slug",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.migrations.0003_item_slug import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0002_auto_20201022_1430'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='item',\n            name='slug',\n            field=models.SlugField(default='item_id_1'),\n            preserve_default=False,\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.migrations.0004_remove_item_slug",
+        "description": "ecommerce.techshop.migrations.0004_remove_item_slug",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0003_item_slug'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='item',\n            name='slug',\n        ),\n    ]",
+        "detail": "ecommerce.techshop.migrations.0004_remove_item_slug",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.migrations.0004_remove_item_slug import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0003_item_slug'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='item',\n            name='slug',\n        ),\n    ]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.migrations.0005_item_slug",
+        "description": "ecommerce.techshop.migrations.0005_item_slug",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0004_remove_item_slug'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='item',\n            name='slug',\n            field=models.SlugField(default='id_item'),\n            preserve_default=False,",
+        "detail": "ecommerce.techshop.migrations.0005_item_slug",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.migrations.0005_item_slug import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0004_remove_item_slug'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='item',\n            name='slug',\n            field=models.SlugField(default='id_item'),\n            preserve_default=False,\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.migrations.0006_auto_20201022_1533",
+        "description": "ecommerce.techshop.migrations.0006_auto_20201022_1533",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0005_item_slug'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='item',\n            name='description',\n            field=models.TextField(blank=True, max_length=500, null=True),\n        ),",
+        "detail": "ecommerce.techshop.migrations.0006_auto_20201022_1533",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.migrations.0006_auto_20201022_1533 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0005_item_slug'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='item',\n            name='description',\n            field=models.TextField(blank=True, max_length=500, null=True),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.migrations.0007_orderitem_quantity",
+        "description": "ecommerce.techshop.migrations.0007_orderitem_quantity",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0006_auto_20201022_1533'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='orderitem',\n            name='quantity',\n            field=models.IntegerField(default=1, null=True),\n        ),",
+        "detail": "ecommerce.techshop.migrations.0007_orderitem_quantity",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.migrations.0007_orderitem_quantity import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0006_auto_20201022_1533'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='orderitem',\n            name='quantity',\n            field=models.IntegerField(default=1, null=True),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.migrations.0008_orderitem_user",
+        "description": "ecommerce.techshop.migrations.0008_orderitem_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('techshop', '0007_orderitem_quantity'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='orderitem',\n            name='user',\n            field=models.ForeignKey(default=1, on_delete=django.db.models.deletion.CASCADE, to='auth.user'),",
+        "detail": "ecommerce.techshop.migrations.0008_orderitem_user",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.migrations.0008_orderitem_user import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('techshop', '0007_orderitem_quantity'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='orderitem',\n            name='user',\n            field=models.ForeignKey(default=1, on_delete=django.db.models.deletion.CASCADE, to='auth.user'),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.migrations.0009_orderitem_ordered",
+        "description": "ecommerce.techshop.migrations.0009_orderitem_ordered",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0008_orderitem_user'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='orderitem',\n            name='ordered',\n            field=models.BooleanField(default=False),\n        ),",
+        "detail": "ecommerce.techshop.migrations.0009_orderitem_ordered",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.migrations.0009_orderitem_ordered import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0008_orderitem_user'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='orderitem',\n            name='ordered',\n            field=models.BooleanField(default=False),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.migrations.0010_billingaddress",
+        "description": "ecommerce.techshop.migrations.0010_billingaddress",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('techshop', '0009_orderitem_ordered'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='BillingAddress',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "ecommerce.techshop.migrations.0010_billingaddress",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.migrations.0010_billingaddress import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n        ('techshop', '0009_orderitem_ordered'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='BillingAddress',\n            fields=[\n                ('id', models.AutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.migrations.0011_auto_20201026_1945",
+        "description": "ecommerce.techshop.migrations.0011_auto_20201026_1945",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0010_billingaddress'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='billingaddress',\n            name='default',\n        ),\n        migrations.AddField(",
+        "detail": "ecommerce.techshop.migrations.0011_auto_20201026_1945",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.migrations.0011_auto_20201026_1945 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0010_billingaddress'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='billingaddress',\n            name='default',\n        ),\n        migrations.AddField(\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.migrations.0012_item_img_product",
+        "description": "ecommerce.techshop.migrations.0012_item_img_product",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0011_auto_20201026_1945'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='item',\n            name='img_product',\n            field=models.ImageField(blank=True, null=True, upload_to=''),\n        ),",
+        "detail": "ecommerce.techshop.migrations.0012_item_img_product",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.migrations.0012_item_img_product import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0011_auto_20201026_1945'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='item',\n            name='img_product',\n            field=models.ImageField(blank=True, null=True, upload_to=''),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.migrations.0013_auto_20201027_0945",
+        "description": "ecommerce.techshop.migrations.0013_auto_20201027_0945",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0012_item_img_product'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='item',\n            name='category',\n            field=models.CharField(choices=[('Iphone', 'Iphone'), ('Sam Sung', 'Sam Sung'), ('Oppo', 'Oppo'), ('Xiao Mi', 'Xiao Mi')], max_length=15, null=True),\n        ),",
+        "detail": "ecommerce.techshop.migrations.0013_auto_20201027_0945",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.migrations.0013_auto_20201027_0945 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0012_item_img_product'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='item',\n            name='category',\n            field=models.CharField(choices=[('Iphone', 'Iphone'), ('Sam Sung', 'Sam Sung'), ('Oppo', 'Oppo'), ('Xiao Mi', 'Xiao Mi')], max_length=15, null=True),\n        ),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.migrations.0014_auto_20201027_1020",
+        "description": "ecommerce.techshop.migrations.0014_auto_20201027_1020",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0013_auto_20201027_0945'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='item',\n            name='category',\n        ),\n        migrations.CreateModel(",
+        "detail": "ecommerce.techshop.migrations.0014_auto_20201027_1020",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.migrations.0014_auto_20201027_1020 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0013_auto_20201027_0945'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='item',\n            name='category',\n        ),\n        migrations.CreateModel(\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.migrations.0015_auto_20201027_1025",
+        "description": "ecommerce.techshop.migrations.0015_auto_20201027_1025",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0014_auto_20201027_1020'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='category',\n            name='item_catagory',\n        ),\n        migrations.AddField(",
+        "detail": "ecommerce.techshop.migrations.0015_auto_20201027_1025",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.migrations.0015_auto_20201027_1025 import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0014_auto_20201027_1020'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='category',\n            name='item_catagory',\n        ),\n        migrations.AddField(\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.migrations.0016_category_slug",
+        "description": "ecommerce.techshop.migrations.0016_category_slug",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0015_auto_20201027_1025'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='category',\n            name='slug',\n            field=models.SlugField(default='cat_id'),\n            preserve_default=False,",
+        "detail": "ecommerce.techshop.migrations.0016_category_slug",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.migrations.0016_category_slug import Migration\n```\n\n```python\n\n\n```\n\n```python\nclass Migration(migrations.Migration):\n    dependencies = [\n        ('techshop', '0015_auto_20201027_1025'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='category',\n            name='slug',\n            field=models.SlugField(default='cat_id'),\n            preserve_default=False,\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TechshopConfig",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.apps",
+        "description": "ecommerce.techshop.apps",
+        "peekOfCode": "class TechshopConfig(AppConfig):\n    name = 'techshop'",
+        "detail": "ecommerce.techshop.apps",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.apps import TechshopConfig\n```\n\n```python\n\n\n```\n\n```python\nclass TechshopConfig(AppConfig):\n    name = 'techshop'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "cart_item_count",
+        "kind": 2,
+        "importPath": "ecommerce.techshop.cart_template_tags",
+        "description": "ecommerce.techshop.cart_template_tags",
+        "peekOfCode": "def cart_item_count(user):\n    if user.is_authenticated:\n        qs = Order.objects.filter(user=user, ordered=False)\n        if qs.exists():\n            return qs[0].items.count()\n    return 0",
+        "detail": "ecommerce.techshop.cart_template_tags",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.cart_template_tags import cart_item_count\n```\n\n```python\n\n\n```\n\n```python\ndef cart_item_count(user):\n    if user.is_authenticated:\n        qs = Order.objects.filter(user=user, ordered=False)\n        if qs.exists():\n            return qs[0].items.count()\n    return 0\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "register",
+        "kind": 5,
+        "importPath": "ecommerce.techshop.cart_template_tags",
+        "description": "ecommerce.techshop.cart_template_tags",
+        "peekOfCode": "register = template.Library()\n@register.filter\ndef cart_item_count(user):\n    if user.is_authenticated:\n        qs = Order.objects.filter(user=user, ordered=False)\n        if qs.exists():\n            return qs[0].items.count()\n    return 0",
+        "detail": "ecommerce.techshop.cart_template_tags",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.cart_template_tags import register\n```\n\n```python\n\n\n```\n\n```python\nregister = template.Library()\n@register.filter\ndef cart_item_count(user):\n    if user.is_authenticated:\n        qs = Order.objects.filter(user=user, ordered=False)\n        if qs.exists():\n            return qs[0].items.count()\n    return 0\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Checkoutform",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.forms",
+        "description": "ecommerce.techshop.forms",
+        "peekOfCode": "class Checkoutform(forms.Form):\n    street_Address =forms.CharField(widget =forms.TextInput(attrs={\n        'placeholder' : 'Phuong'\n    }))\n    apartment_Address =forms.CharField(required =False, widget =forms.TextInput(attrs={\n        'placeholder': 'Dia chi nha ....'\n    }))\n    country = CountryField(blank_label ='(select country)').formfield()\n    zip =forms.CharField()\n    same_billing_address =forms.BooleanField(widget =forms.CheckboxInput(),required =False)",
+        "detail": "ecommerce.techshop.forms",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.forms import Checkoutform\n```\n\n```python\n\n\n```\n\n```python\nclass Checkoutform(forms.Form):\n    street_Address =forms.CharField(widget =forms.TextInput(attrs={\n        'placeholder' : 'Phuong'\n    }))\n    apartment_Address =forms.CharField(required =False, widget =forms.TextInput(attrs={\n        'placeholder': 'Dia chi nha ....'\n    }))\n    country = CountryField(blank_label ='(select country)').formfield()\n    zip =forms.CharField()\n    same_billing_address =forms.BooleanField(widget =forms.CheckboxInput(),required =False)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Category",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.models",
+        "description": "ecommerce.techshop.models",
+        "peekOfCode": "class Category(models.Model):\n    cat_title = models.CharField(blank=True ,null =True,max_length=100)\n    slug = models.SlugField()\n    def __str__(self):\n        return self.cat_title\n    def getidcategoryURL(self):\n        return reverse(\"techshop:Categoryproductdetails\",kwargs={\n            'slug' : self.slug\n        })\nclass Item(models.Model):",
+        "detail": "ecommerce.techshop.models",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.models import Category\n```\n\n```python\n\n\n```\n\n```python\nclass Category(models.Model):\n    cat_title = models.CharField(blank=True ,null =True,max_length=100)\n    slug = models.SlugField()\n    def __str__(self):\n        return self.cat_title\n    def getidcategoryURL(self):\n        return reverse(\"techshop:Categoryproductdetails\",kwargs={\n            'slug' : self.slug\n        })\nclass Item(models.Model):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Item",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.models",
+        "description": "ecommerce.techshop.models",
+        "peekOfCode": "class Item(models.Model):\n    pass\n    title = models.CharField(max_length =200,null =True ,blank=True)\n    price = models.FloatField(null=True ,blank =True) \n    discount_price = models.FloatField(null=True ,blank =True) \n    description =models.TextField(null=True,blank=True,max_length=500)\n    item_category =models.ForeignKey(Category,null =True,on_delete =models.CASCADE)\n    label = models.CharField(choices=LABEL_CHOICES, max_length=2,null=True)\n    slug = models.SlugField()\n    img_product =models.ImageField(null =True,blank=True)",
+        "detail": "ecommerce.techshop.models",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.models import Item\n```\n\n```python\n\n\n```\n\n```python\nclass Item(models.Model):\n    pass\n    title = models.CharField(max_length =200,null =True ,blank=True)\n    price = models.FloatField(null=True ,blank =True) \n    discount_price = models.FloatField(null=True ,blank =True) \n    description =models.TextField(null=True,blank=True,max_length=500)\n    item_category =models.ForeignKey(Category,null =True,on_delete =models.CASCADE)\n    label = models.CharField(choices=LABEL_CHOICES, max_length=2,null=True)\n    slug = models.SlugField()\n    img_product =models.ImageField(null =True,blank=True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "OrderItem",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.models",
+        "description": "ecommerce.techshop.models",
+        "peekOfCode": "class OrderItem(models.Model):\n    user = models.ForeignKey(settings.AUTH_USER_MODEL,on_delete=models.CASCADE)\n    item = models.ForeignKey(Item,on_delete=models.CASCADE)\n    quantity=models.IntegerField(null=True,default=1)\n    ordered = models.BooleanField(default =False) \n    def __str__(self):\n        return self.item.title \n    def total_one_product(self):\n        return self.item.discount_price*self.quantity\n    def total_product(self):",
+        "detail": "ecommerce.techshop.models",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.models import OrderItem\n```\n\n```python\n\n\n```\n\n```python\nclass OrderItem(models.Model):\n    user = models.ForeignKey(settings.AUTH_USER_MODEL,on_delete=models.CASCADE)\n    item = models.ForeignKey(Item,on_delete=models.CASCADE)\n    quantity=models.IntegerField(null=True,default=1)\n    ordered = models.BooleanField(default =False) \n    def __str__(self):\n        return self.item.title \n    def total_one_product(self):\n        return self.item.discount_price*self.quantity\n    def total_product(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Order",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.models",
+        "description": "ecommerce.techshop.models",
+        "peekOfCode": "class Order(models.Model):\n    pass\n    #cai dat user dua vao user model setting\n    user = models.ForeignKey(settings.AUTH_USER_MODEL,on_delete=models.CASCADE)\n    items = models.ManyToManyField(OrderItem)\n    start_date= models.DateTimeField(auto_now_add=True,null=True)\n    ordered_date = models.DateTimeField()\n    ordered = models.BooleanField(default =False)\n    billing_address = models.ForeignKey('BillingAddress',on_delete =models.SET_NULL,null =True)\n    def __str__(self):",
+        "detail": "ecommerce.techshop.models",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.models import Order\n```\n\n```python\n\n\n```\n\n```python\nclass Order(models.Model):\n    pass\n    #cai dat user dua vao user model setting\n    user = models.ForeignKey(settings.AUTH_USER_MODEL,on_delete=models.CASCADE)\n    items = models.ManyToManyField(OrderItem)\n    start_date= models.DateTimeField(auto_now_add=True,null=True)\n    ordered_date = models.DateTimeField()\n    ordered = models.BooleanField(default =False)\n    billing_address = models.ForeignKey('BillingAddress',on_delete =models.SET_NULL,null =True)\n    def __str__(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BillingAddress",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.models",
+        "description": "ecommerce.techshop.models",
+        "peekOfCode": "class BillingAddress(models.Model):\n    user = models.ForeignKey(settings.AUTH_USER_MODEL,on_delete=models.CASCADE)\n    street_address = models.CharField(max_length=100)\n    apartment_address = models.CharField(max_length=100)\n    country = CountryField(multiple=False)\n    zip = models.CharField(max_length=100)\n    address_type = models.CharField(max_length=1, choices=ADDRESS_CHOICES)\n    def __str__(self):\n        return self.user.username",
+        "detail": "ecommerce.techshop.models",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.models import BillingAddress\n```\n\n```python\n\n\n```\n\n```python\nclass BillingAddress(models.Model):\n    user = models.ForeignKey(settings.AUTH_USER_MODEL,on_delete=models.CASCADE)\n    street_address = models.CharField(max_length=100)\n    apartment_address = models.CharField(max_length=100)\n    country = CountryField(multiple=False)\n    zip = models.CharField(max_length=100)\n    address_type = models.CharField(max_length=1, choices=ADDRESS_CHOICES)\n    def __str__(self):\n        return self.user.username\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LABEL_CHOICES",
+        "kind": 5,
+        "importPath": "ecommerce.techshop.models",
+        "description": "ecommerce.techshop.models",
+        "peekOfCode": "LABEL_CHOICES = (\n    ('P', 'primary'),\n    ('S', 'secondary'),\n    ('D', 'danger')\n)\nADDRESS_CHOICES = (\n    ('B', 'Billing'),\n    ('S', 'Shipping'),\n)\nclass Category(models.Model):",
+        "detail": "ecommerce.techshop.models",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.models import LABEL_CHOICES\n```\n\n```python\n\n\n```\n\n```python\nLABEL_CHOICES = (\n    ('P', 'primary'),\n    ('S', 'secondary'),\n    ('D', 'danger')\n)\nADDRESS_CHOICES = (\n    ('B', 'Billing'),\n    ('S', 'Shipping'),\n)\nclass Category(models.Model):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ADDRESS_CHOICES",
+        "kind": 5,
+        "importPath": "ecommerce.techshop.models",
+        "description": "ecommerce.techshop.models",
+        "peekOfCode": "ADDRESS_CHOICES = (\n    ('B', 'Billing'),\n    ('S', 'Shipping'),\n)\nclass Category(models.Model):\n    cat_title = models.CharField(blank=True ,null =True,max_length=100)\n    slug = models.SlugField()\n    def __str__(self):\n        return self.cat_title\n    def getidcategoryURL(self):",
+        "detail": "ecommerce.techshop.models",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.models import ADDRESS_CHOICES\n```\n\n```python\n\n\n```\n\n```python\nADDRESS_CHOICES = (\n    ('B', 'Billing'),\n    ('S', 'Shipping'),\n)\nclass Category(models.Model):\n    cat_title = models.CharField(blank=True ,null =True,max_length=100)\n    slug = models.SlugField()\n    def __str__(self):\n        return self.cat_title\n    def getidcategoryURL(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CartView",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.views",
+        "description": "ecommerce.techshop.views",
+        "peekOfCode": "class CartView(View):\n    def get(self,*args, **kwargs):\n        try :\n            order =Order.objects.get(user =self.request.user,ordered = False)\n            context ={'order':order}\n            return render(self.request,template_name='techhome/cart.html',context=context) \n        except ObjectDoesNotExist:\n            messages.error(self.request,\"You dont have item in order\")\n            return redirect('techshop:productdetail')#\ndef remove_single_item_from_cart(request, slug):",
+        "detail": "ecommerce.techshop.views",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.views import CartView\n```\n\n```python\n\n\n```\n\n```python\nclass CartView(View):\n    def get(self,*args, **kwargs):\n        try :\n            order =Order.objects.get(user =self.request.user,ordered = False)\n            context ={'order':order}\n            return render(self.request,template_name='techhome/cart.html',context=context) \n        except ObjectDoesNotExist:\n            messages.error(self.request,\"You dont have item in order\")\n            return redirect('techshop:productdetail')#\ndef remove_single_item_from_cart(request, slug):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "CheckoutView",
+        "kind": 6,
+        "importPath": "ecommerce.techshop.views",
+        "description": "ecommerce.techshop.views",
+        "peekOfCode": "class CheckoutView(View):\n    def get(self,*args,**kwargs):\n        form = Checkoutform()\n        context={'form':form}\n        return render(self.request,template_name='techhome/checkout.html',context=context)\n    def post(self,*args,**kwargs):\n        form =Checkoutform(self.request.POST or None)\n        try :\n            order =Order.objects.get(user =self.request.user,ordered = False)\n            if form.is_valid():",
+        "detail": "ecommerce.techshop.views",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.views import CheckoutView\n```\n\n```python\n\n\n```\n\n```python\nclass CheckoutView(View):\n    def get(self,*args,**kwargs):\n        form = Checkoutform()\n        context={'form':form}\n        return render(self.request,template_name='techhome/checkout.html',context=context)\n    def post(self,*args,**kwargs):\n        form =Checkoutform(self.request.POST or None)\n        try :\n            order =Order.objects.get(user =self.request.user,ordered = False)\n            if form.is_valid():\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "HomeView",
+        "kind": 2,
+        "importPath": "ecommerce.techshop.views",
+        "description": "ecommerce.techshop.views",
+        "peekOfCode": "def HomeView(request):\n    item_list = Item.objects.all()\n    print(item_list)\n    nitem =len(item_list)\n    nSlides = nitem//3 +ceil((nitem/3)-(nitem//3))\n    cat_list = Category.objects.all()\n    slide_list =Item.objects.all()[:3]\n    nslider =len(slide_list)\n    context ={'item_list':item_list,'cat_list':cat_list,\n              'slide_list':slide_list,'range':range(1,nSlides),",
+        "detail": "ecommerce.techshop.views",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.views import HomeView\n```\n\n```python\n\n\n```\n\n```python\ndef HomeView(request):\n    item_list = Item.objects.all()\n    print(item_list)\n    nitem =len(item_list)\n    nSlides = nitem//3 +ceil((nitem/3)-(nitem//3))\n    cat_list = Category.objects.all()\n    slide_list =Item.objects.all()[:3]\n    nslider =len(slide_list)\n    context ={'item_list':item_list,'cat_list':cat_list,\n              'slide_list':slide_list,'range':range(1,nSlides),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ItemDetailView",
+        "kind": 2,
+        "importPath": "ecommerce.techshop.views",
+        "description": "ecommerce.techshop.views",
+        "peekOfCode": "def ItemDetailView(request,slug):\n    item_list = Item.objects.all()\n    cat_list = Category.objects.all()\n    item_id  = Item.objects.get(slug =slug)\n    context ={'item_list':item_list,'cat_list':cat_list,'item_id' :item_id}\n    return render(request,template_name='techhome/productdetails.html',context=context)\ndef ShopView(request):\n    item_list = Item.objects.all()\n    cat_list = Category.objects.all()\n    context ={'item_list':item_list,'cat_list':cat_list}",
+        "detail": "ecommerce.techshop.views",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.views import ItemDetailView\n```\n\n```python\n\n\n```\n\n```python\ndef ItemDetailView(request,slug):\n    item_list = Item.objects.all()\n    cat_list = Category.objects.all()\n    item_id  = Item.objects.get(slug =slug)\n    context ={'item_list':item_list,'cat_list':cat_list,'item_id' :item_id}\n    return render(request,template_name='techhome/productdetails.html',context=context)\ndef ShopView(request):\n    item_list = Item.objects.all()\n    cat_list = Category.objects.all()\n    context ={'item_list':item_list,'cat_list':cat_list}\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ShopView",
+        "kind": 2,
+        "importPath": "ecommerce.techshop.views",
+        "description": "ecommerce.techshop.views",
+        "peekOfCode": "def ShopView(request):\n    item_list = Item.objects.all()\n    cat_list = Category.objects.all()\n    context ={'item_list':item_list,'cat_list':cat_list}\n    return render(request,template_name='techhome/shop.html',context=context)\ndef Categoryproductdetails(request,slug):\n    category =None\n    item_list = Item.objects.all()\n    cat_list = Category.objects.all()\n    if slug :",
+        "detail": "ecommerce.techshop.views",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.views import ShopView\n```\n\n```python\n\n\n```\n\n```python\ndef ShopView(request):\n    item_list = Item.objects.all()\n    cat_list = Category.objects.all()\n    context ={'item_list':item_list,'cat_list':cat_list}\n    return render(request,template_name='techhome/shop.html',context=context)\ndef Categoryproductdetails(request,slug):\n    category =None\n    item_list = Item.objects.all()\n    cat_list = Category.objects.all()\n    if slug :\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Categoryproductdetails",
+        "kind": 2,
+        "importPath": "ecommerce.techshop.views",
+        "description": "ecommerce.techshop.views",
+        "peekOfCode": "def Categoryproductdetails(request,slug):\n    category =None\n    item_list = Item.objects.all()\n    cat_list = Category.objects.all()\n    if slug :\n        category =get_object_or_404(Category,slug =slug)\n        item_list =item_list.filter(item_category =category)\n    context ={'item_list':item_list,'cat_list':cat_list,'category':category}\n    return render(request,template_name='techhome/categorydetails.html',context=context)\ndef add_to_cart(request ,slug):",
+        "detail": "ecommerce.techshop.views",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.views import Categoryproductdetails\n```\n\n```python\n\n\n```\n\n```python\ndef Categoryproductdetails(request,slug):\n    category =None\n    item_list = Item.objects.all()\n    cat_list = Category.objects.all()\n    if slug :\n        category =get_object_or_404(Category,slug =slug)\n        item_list =item_list.filter(item_category =category)\n    context ={'item_list':item_list,'cat_list':cat_list,'category':category}\n    return render(request,template_name='techhome/categorydetails.html',context=context)\ndef add_to_cart(request ,slug):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "add_to_cart",
+        "kind": 2,
+        "importPath": "ecommerce.techshop.views",
+        "description": "ecommerce.techshop.views",
+        "peekOfCode": "def add_to_cart(request ,slug):\n    if request.user.is_authenticated:\n        item =get_object_or_404(Item, slug=slug)\n        order_item,created =OrderItem.objects.get_or_create(item =item,user =request.user ,ordered =False)\n        order_qs =Order.objects.filter(user =request.user , ordered =False)\n        if order_qs.exists():\n            order =order_qs[0]\n            if order.items.filter(item__slug =item.slug).exists():\n                order_item.quantity += 1\n                order_item.save()",
+        "detail": "ecommerce.techshop.views",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.views import add_to_cart\n```\n\n```python\n\n\n```\n\n```python\ndef add_to_cart(request ,slug):\n    if request.user.is_authenticated:\n        item =get_object_or_404(Item, slug=slug)\n        order_item,created =OrderItem.objects.get_or_create(item =item,user =request.user ,ordered =False)\n        order_qs =Order.objects.filter(user =request.user , ordered =False)\n        if order_qs.exists():\n            order =order_qs[0]\n            if order.items.filter(item__slug =item.slug).exists():\n                order_item.quantity += 1\n                order_item.save()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "add_more_quantity",
+        "kind": 2,
+        "importPath": "ecommerce.techshop.views",
+        "description": "ecommerce.techshop.views",
+        "peekOfCode": "def add_more_quantity(request,slug):\n    if request.user.is_authenticated:\n        pass\ndef remove_from_cart(request,slug):\n    if request.user.is_authenticated:\n        item =get_object_or_404(Item, slug=slug)   \n        order_qs =Order.objects.filter(user =request.user , ordered =False)\n        if order_qs.exists():\n            order =order_qs[0]\n            if order.items.filter(item__slug =item.slug).exists():",
+        "detail": "ecommerce.techshop.views",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.views import add_more_quantity\n```\n\n```python\n\n\n```\n\n```python\ndef add_more_quantity(request,slug):\n    if request.user.is_authenticated:\n        pass\ndef remove_from_cart(request,slug):\n    if request.user.is_authenticated:\n        item =get_object_or_404(Item, slug=slug)   \n        order_qs =Order.objects.filter(user =request.user , ordered =False)\n        if order_qs.exists():\n            order =order_qs[0]\n            if order.items.filter(item__slug =item.slug).exists():\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "remove_from_cart",
+        "kind": 2,
+        "importPath": "ecommerce.techshop.views",
+        "description": "ecommerce.techshop.views",
+        "peekOfCode": "def remove_from_cart(request,slug):\n    if request.user.is_authenticated:\n        item =get_object_or_404(Item, slug=slug)   \n        order_qs =Order.objects.filter(user =request.user , ordered =False)\n        if order_qs.exists():\n            order =order_qs[0]\n            if order.items.filter(item__slug =item.slug).exists():\n                order_item =OrderItem.objects.filter(\n                    item =item,\n                    user =request.user,",
+        "detail": "ecommerce.techshop.views",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.views import remove_from_cart\n```\n\n```python\n\n\n```\n\n```python\ndef remove_from_cart(request,slug):\n    if request.user.is_authenticated:\n        item =get_object_or_404(Item, slug=slug)   \n        order_qs =Order.objects.filter(user =request.user , ordered =False)\n        if order_qs.exists():\n            order =order_qs[0]\n            if order.items.filter(item__slug =item.slug).exists():\n                order_item =OrderItem.objects.filter(\n                    item =item,\n                    user =request.user,\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "remove_single_item_from_cart",
+        "kind": 2,
+        "importPath": "ecommerce.techshop.views",
+        "description": "ecommerce.techshop.views",
+        "peekOfCode": "def remove_single_item_from_cart(request, slug):\n    if request.user.is_authenticated:\n        item = get_object_or_404(Item, slug=slug)\n        order_qs = Order.objects.filter(\n            user=request.user,\n            ordered=False\n        )\n        if order_qs.exists():\n            order = order_qs[0]\n            # check if the order item is in the order",
+        "detail": "ecommerce.techshop.views",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.views import remove_single_item_from_cart\n```\n\n```python\n\n\n```\n\n```python\ndef remove_single_item_from_cart(request, slug):\n    if request.user.is_authenticated:\n        item = get_object_or_404(Item, slug=slug)\n        order_qs = Order.objects.filter(\n            user=request.user,\n            ordered=False\n        )\n        if order_qs.exists():\n            order = order_qs[0]\n            # check if the order item is in the order\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SearchView",
+        "kind": 2,
+        "importPath": "ecommerce.techshop.views",
+        "description": "ecommerce.techshop.views",
+        "peekOfCode": "def SearchView(request):\n    \"\"\"\n    docstring\n    \"\"\"\n    template ='techhome/search.html'\n    item_list = Item.objects.all()\n    cat_list = Category.objects.all()\n    query = request.GET.get('q')\n    items = Item.objects.filter(title__icontains =query)\n    #phân trang tìm kiếm",
+        "detail": "ecommerce.techshop.views",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.views import SearchView\n```\n\n```python\n\n\n```\n\n```python\ndef SearchView(request):\n    \"\"\"\n    docstring\n    \"\"\"\n    template ='techhome/search.html'\n    item_list = Item.objects.all()\n    cat_list = Category.objects.all()\n    query = request.GET.get('q')\n    items = Item.objects.filter(title__icontains =query)\n    #phân trang tìm kiếm\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ProfileView",
+        "kind": 2,
+        "importPath": "ecommerce.techshop.views",
+        "description": "ecommerce.techshop.views",
+        "peekOfCode": "def ProfileView(request):\n    context ={}\n    return render(request,template_name ='techhome/productdetails.html')\nclass CheckoutView(View):\n    def get(self,*args,**kwargs):\n        form = Checkoutform()\n        context={'form':form}\n        return render(self.request,template_name='techhome/checkout.html',context=context)\n    def post(self,*args,**kwargs):\n        form =Checkoutform(self.request.POST or None)",
+        "detail": "ecommerce.techshop.views",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.views import ProfileView\n```\n\n```python\n\n\n```\n\n```python\ndef ProfileView(request):\n    context ={}\n    return render(request,template_name ='techhome/productdetails.html')\nclass CheckoutView(View):\n    def get(self,*args,**kwargs):\n        form = Checkoutform()\n        context={'form':form}\n        return render(self.request,template_name='techhome/checkout.html',context=context)\n    def post(self,*args,**kwargs):\n        form =Checkoutform(self.request.POST or None)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LoginView",
+        "kind": 2,
+        "importPath": "ecommerce.techshop.views",
+        "description": "ecommerce.techshop.views",
+        "peekOfCode": "def LoginView(request):\n    if request.method =='POST':\n        username =request.POST['username']\n        password = request.POST['password']\n        user = authenticate(request, username =username,password =password)\n        if user:\n            login(request ,user)\n            success_login = \"User is login sucess\"\n            return redirect('techshop:home')\n        else :",
+        "detail": "ecommerce.techshop.views",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.views import LoginView\n```\n\n```python\n\n\n```\n\n```python\ndef LoginView(request):\n    if request.method =='POST':\n        username =request.POST['username']\n        password = request.POST['password']\n        user = authenticate(request, username =username,password =password)\n        if user:\n            login(request ,user)\n            success_login = \"User is login sucess\"\n            return redirect('techshop:home')\n        else :\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LogoutView",
+        "kind": 2,
+        "importPath": "ecommerce.techshop.views",
+        "description": "ecommerce.techshop.views",
+        "peekOfCode": "def LogoutView(request):\n    if User.is_authenticated:\n        logout(request)\n        return redirect('techshop:login')\ndef Signup(request):\n    if request.method =='POST':\n        first_name = request.POST['firstname']\n        last_name = request.POST['lastname']\n        username = request.POST['username']\n        email = request.POST['email']",
+        "detail": "ecommerce.techshop.views",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.views import LogoutView\n```\n\n```python\n\n\n```\n\n```python\ndef LogoutView(request):\n    if User.is_authenticated:\n        logout(request)\n        return redirect('techshop:login')\ndef Signup(request):\n    if request.method =='POST':\n        first_name = request.POST['firstname']\n        last_name = request.POST['lastname']\n        username = request.POST['username']\n        email = request.POST['email']\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Signup",
+        "kind": 2,
+        "importPath": "ecommerce.techshop.views",
+        "description": "ecommerce.techshop.views",
+        "peekOfCode": "def Signup(request):\n    if request.method =='POST':\n        first_name = request.POST['firstname']\n        last_name = request.POST['lastname']\n        username = request.POST['username']\n        email = request.POST['email']\n        password1 = request.POST['password1']\n        password2 = request.POST['password2']\n        if password1 == password2:\n            user = User.objects.create_user(first_name =first_name,last_name=last_name,username = username,email=email,password=password1)",
+        "detail": "ecommerce.techshop.views",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.techshop.views import Signup\n```\n\n```python\n\n\n```\n\n```python\ndef Signup(request):\n    if request.method =='POST':\n        first_name = request.POST['firstname']\n        last_name = request.POST['lastname']\n        username = request.POST['username']\n        email = request.POST['email']\n        password1 = request.POST['password1']\n        password2 = request.POST['password2']\n        if password1 == password2:\n            user = User.objects.create_user(first_name =first_name,last_name=last_name,username = username,email=email,password=password1)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "ecommerce.manage",
+        "description": "ecommerce.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ecommerce.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "ecommerce.manage",
+        "documentation": {
+            "value": "\n```python\nfrom ecommerce.manage import main\n```\n\n```python\n\n\n```\n\n```python\ndef main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'ecommerce.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom venv.Scripts.activate_this import bin_dir\n```\n\n```python\n\n\n```\n\n```python\nbin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom venv.Scripts.activate_this import base\n```\n\n```python\n\n\n```\n\n```python\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom venv.Scripts.activate_this import os.environ[\"PATH\"]\n```\n\n```python\n\n\n```\n\n```python\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir] + os.environ.get(\"PATH\", \"\").split(os.pathsep))\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom venv.Scripts.activate_this import os.environ[\"VIRTUAL_ENV\"]\n```\n\n```python\n\n\n```\n\n```python\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom venv.Scripts.activate_this import prev_length\n```\n\n```python\n\n\n```\n\n```python\nprev_length = len(sys.path)\nfor lib in \"..\\Lib\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom venv.Scripts.activate_this import sys.path[:]\n```\n\n```python\n\n\n```\n\n```python\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom venv.Scripts.activate_this import sys.real_prefix\n```\n\n```python\n\n\n```\n\n```python\nsys.real_prefix = sys.prefix\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": "venv.Scripts.activate_this",
+        "description": "venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": "venv.Scripts.activate_this",
+        "documentation": {
+            "value": "\n```python\nfrom venv.Scripts.activate_this import sys.prefix\n```\n\n```python\n\n\n```\n\n```python\nsys.prefix = base\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]
